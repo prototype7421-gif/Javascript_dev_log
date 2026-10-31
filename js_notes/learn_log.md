@@ -7,3 +7,5 @@ again and again its a memory space to store values.
  > OBJECTS?
  like  a class in java in order to reference some attributes and info we create object in JS.
   > (our browser console  is a good way of knowing these JS instructions.)
+  ### 1-11-26
+ learned loops if else statement and other things.
