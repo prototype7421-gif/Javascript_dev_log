@@ -58,3 +58,28 @@ if(score >=90){
 }else if(score >=80){
     console.log("B");
 }
+ww[2,3,4];
+for(let t =0;t<=ww.length;t++){
+let sum =sum + ww[i];
+}
+console.log(ww[i],sum);
+
+//for-of loop
+let str = "MODRIC";
+for(let i of str){
+console.log(i);
+}
+//for-in loop - returns keys
+let football ={
+    name : "modric",
+    foot: "right"
+}
+for(let j in football){
+    console.log(j);//key
+    console.log(football[j]);//value
+}
+//template literls-embedding expression at runtime
+console.log("the price is",$,{1 : 2 + 3});
+let s= "modric"
+s.toLowerCase();
+s.toUpperCase();// these meth0ods doesnt change original string they make a new string.in javascript string are immutable
