@@ -17,3 +17,8 @@ console.log("the price is",$,{1 : 2 + 3});
 let s= "modric"
 s.toLowerCase();
 s.toUpperCase();// these meth0ods doesnt change original string they make a new string.in javascript string are immutable
+### 13-11-26
+functions- its a block of code with a specific purpose tht can be invoked anywhere.
+> then wt are methods then isnt both same ??
+well there is a distinction and the difference is tht we bind the method to a particular data structure.
+u can pass functions as argument for another function they are also  known as callback function.
